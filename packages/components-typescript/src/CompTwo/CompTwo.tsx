@@ -8,7 +8,7 @@ const CompTwo: React.FC = () => {
         <span role="img" aria-label="Yarn Logo">
           🐱
         </span>{' '}
-        Comp Two
+        Comp Two!
       </h3>
     </div>
   );
